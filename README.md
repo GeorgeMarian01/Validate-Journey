@@ -1,11 +1,12 @@
 # About project 
-✅ The scope of this project was to perform testing on different user scenarios from a course web and mobile page that addressed critical and edge cases
 
-✅ Conducted different testing types such as functional, exploratory and compatibility
+✅ The project focused on testing user scenarios on both web and mobile platforms for a course page, emphasizing critical and uncommon scenarios
 
-✅ Applied different test techniques (EP, BVA, Decision Table, STT) on given requirements
+✅ Various testing methodologies including functional, exploratory, and compatibility testing were employed 
 
-✅ Created bug reports for different issues such as usability and visual
+✅ Different testing techniques like EP, BVA, Decision Table, and STT were applied based on specified requirements 
+
+✅ Additionally, comprehensive bug reports were generated covering issues related to usability and visual aspects
 
 # Test Case #1
 ### Business Requirement 
